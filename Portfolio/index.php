@@ -94,6 +94,7 @@
     <p class="anim-pres"></p>
     <a href="#exp" class="linkacc linkacc1">Parcours</a>
     <a href="#portfolio" class="linkacc linkacc2">Portfolio</a>
+    <a href="https://drive.google.com/drive/folders/11sa6C9PWFgCOY3xxWU2UaCLjKsVY1YpF?usp=sharing/" target="blank" class="linkacc linkacc2">Lien vers le drive</a>
 
     <div class="networklist">
       <a href="https://github.com/JulienLeNoach" target="blank">
@@ -129,8 +130,11 @@
         <p>(Services Informatiques aux Organisations), Option SLAM (Solutions Logicielles et Application Métier)</p>
         <br>
         <p>
-          J’espère intégrer dès la rentrée prochaine une licence professionnelle mention métiers de l'informatique : applications web.<br>
-          Je suis à la recherche d’une entreprise où réaliser mon alternance pour apprendre tout l’aspect pratique de ce métier tout en partageant mes compétences acquises en formation, dans le but de contribuer au développement de votre entreprise !</p>
+        Admissible au CESI de Brest pour le Bachelor
+        Concepteur développeur d'applications, je suis à la
+        recherche d’un poste de développeur en alternance à
+        compter de septembre 2022 pour une durée d'un an.
+        (3 semaines en entreprise/1 semaine en formation)</p>
       </div>
 
     </div>
@@ -198,15 +202,15 @@
     <div class="test">
       <h2 class="title-portfolio">Portfolio</h2>
       <div class="container-projet">
-        <a href="http://lycee.yves-thepot.pro.dns-orange.fr:20171/Portfolio/LaFleurphpv2/Site%20LaFleur.php">
+        <a href="http://lycee.yves-thepot.pro.dns-orange.fr:20171/Portfolio/LaFleurphpv2/Site%20LaFleur.php" target="blank">
           <div class="block-projet">
             <div class="title-projet">Site LaFleur</div>
             <img src="ressources/LaFleur.jpg" alt="image fleur">
-            <div class="content-projet">Création d'un site e-commerce avec PhP, MySQL et Bootstrap !
+            <div class="content-projet">Création d'un site e-commerce avec PhP, MySQL.
             </div>
           </div>
         </a>
-        <a href="http://lycee.yves-thepot.pro.dns-orange.fr:20171/Portfolio/BlackJack/">
+        <a href="http://lycee.yves-thepot.pro.dns-orange.fr:20171/Portfolio/BlackJack/" target="blank">
           <div class="block-projet">
             <div class="title-projet">BlackJack</div>
             <img src="ressources/blackjack.jpg" alt="image cartes">
@@ -214,12 +218,14 @@
             </div>
           </div>
         </a>
-        <div class="block-projet">
-          <div class="title-projet">Climb This!</div>
-          <img src="ressources/climbing.jpg" alt="image escalade">
-          <div class="content-projet">Réalisation d'une application d'aide aux débutants en escalade en JAVA.
+        <a href="" target="blank">
+          <div class="block-projet">
+            <div class="title-projet">Climb This !</div>
+            <img src="ressources/climbing.jpg" alt="image climb">
+            <div class="content-projet">Application web JEE qui vous aide à monter un mur d'escalade.
+            </div>
           </div>
-        </div>
+        </a>
       </div>
   </section>
   <section class="contact" id="contact">
